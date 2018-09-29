@@ -16,6 +16,7 @@ namespace EmployeeService_TokenAuthentication.Controllers
             using(EmployeeDBEntities entities= new EmployeeDBEntities())
             {
                 return entities.EmployeesTokenExampleTables.ToList();
+
             }
         }
     }
