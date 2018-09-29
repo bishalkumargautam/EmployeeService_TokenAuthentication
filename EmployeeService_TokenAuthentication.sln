@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeService_TokenAuthentication", "EmployeeService_TokenAuthentication\EmployeeService_TokenAuthentication.csproj", "{F88D57C1-BBDA-4003-A594-DE05AF4E7E01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeDAL", "EmployeeDAL\EmployeeDAL.csproj", "{7FA1F76C-02E8-471C-BD02-4810918BDE6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F88D57C1-BBDA-4003-A594-DE05AF4E7E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F88D57C1-BBDA-4003-A594-DE05AF4E7E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F88D57C1-BBDA-4003-A594-DE05AF4E7E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F88D57C1-BBDA-4003-A594-DE05AF4E7E01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FA1F76C-02E8-471C-BD02-4810918BDE6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA1F76C-02E8-471C-BD02-4810918BDE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA1F76C-02E8-471C-BD02-4810918BDE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA1F76C-02E8-471C-BD02-4810918BDE6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9226AC32-DAA5-40F8-870B-8E12D2E7DF93}
+	EndGlobalSection
+EndGlobal
